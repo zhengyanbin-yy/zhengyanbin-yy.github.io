@@ -1,0 +1,85 @@
+{
+  "app": {
+    "name": "bin-hel-tpl-remote-vue-comps",
+    "app_group_name": "bin-hel-tpl-remote-vue-comps",
+    "git_repo_url": "",
+    "online_version": "0.0.3",
+    "build_version": "0.0.3"
+  },
+  "version": {
+    "plugin_ver": "4.3.20",
+    "extract_mode": "build",
+    "sub_app_name": "bin-hel-tpl-remote-vue-comps",
+    "sub_app_version": "0.0.3",
+    "src_map": {
+      "webDirPath": "https://unpkg.com/bin-hel-tpl-remote-vue-comps@0.0.3/hel_dist",
+      "htmlIndexSrc": "https://unpkg.com/bin-hel-tpl-remote-vue-comps@0.0.3/hel_dist/index.html",
+      "extractMode": "all",
+      "iframeSrc": "",
+      "chunkCssSrcList": [
+        "https://unpkg.com/bin-hel-tpl-remote-vue-comps@0.0.3/hel_dist/css/chunk-4926f535.c4df890f.css"
+      ],
+      "chunkJsSrcList": [
+        "https://unpkg.com/bin-hel-tpl-remote-vue-comps@0.0.3/hel_dist/js/app~7274e1de.657ef473.js",
+        "https://unpkg.com/bin-hel-tpl-remote-vue-comps@0.0.3/hel_dist/js/chunk-4926f535.4ead9eec.js"
+      ],
+      "staticCssSrcList": [],
+      "staticJsSrcList": [
+        "https://tnfe.gtimg.com/hel-external/level1/comb-v1-2.7.14-vue.js"
+      ],
+      "relativeCssSrcList": [],
+      "relativeJsSrcList": [],
+      "headAssetList": [
+        {
+          "tag": "staticScript",
+          "append": false,
+          "attrs": {
+            "src": "https://tnfe.gtimg.com/hel-external/level1/comb-v1-2.7.14-vue.js"
+          }
+        },
+        {
+          "tag": "link",
+          "append": true,
+          "attrs": {
+            "href": "https://unpkg.com/bin-hel-tpl-remote-vue-comps@0.0.3/hel_dist/css/chunk-4926f535.c4df890f.css",
+            "rel": "prefetch"
+          }
+        },
+        {
+          "tag": "link",
+          "append": true,
+          "attrs": {
+            "href": "https://unpkg.com/bin-hel-tpl-remote-vue-comps@0.0.3/hel_dist/js/chunk-4926f535.4ead9eec.js",
+            "rel": "prefetch"
+          }
+        },
+        {
+          "tag": "link",
+          "append": true,
+          "attrs": {
+            "href": "https://unpkg.com/bin-hel-tpl-remote-vue-comps@0.0.3/hel_dist/js/app~7274e1de.657ef473.js",
+            "rel": "preload",
+            "as": "script"
+          }
+        }
+      ],
+      "bodyAssetList": [
+        {
+          "tag": "script",
+          "append": true,
+          "attrs": {
+            "src": "https://unpkg.com/bin-hel-tpl-remote-vue-comps@0.0.3/hel_dist/js/app~7274e1de.657ef473.js"
+          }
+        }
+      ],
+      "otherSrcList": [
+        "https://unpkg.com/bin-hel-tpl-remote-vue-comps@0.0.3/hel_dist/favicon.ico",
+        "https://unpkg.com/bin-hel-tpl-remote-vue-comps@0.0.3/hel_dist/img/logo.82b9c7a5.png",
+        "https://unpkg.com/bin-hel-tpl-remote-vue-comps@0.0.3/hel_dist/index.html",
+        "https://unpkg.com/bin-hel-tpl-remote-vue-comps@0.0.3/hel_dist/js/app~7274e1de.657ef473.js.map",
+        "https://unpkg.com/bin-hel-tpl-remote-vue-comps@0.0.3/hel_dist/js/chunk-4926f535.4ead9eec.js.map"
+      ]
+    },
+    "html_content": "<!DOCTYPE html><html lang=\"\"><head><meta charset=\"utf-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><title>tpl-remote-vue-comp</title><script src=\"https://tnfe.gtimg.com/hel-external/level1/comb-v1-2.7.14-vue.js\"></script><link href=\"https://unpkg.com/bin-hel-tpl-remote-vue-comps@0.0.3/hel_dist/css/chunk-4926f535.c4df890f.css\" rel=\"prefetch\"><link href=\"https://unpkg.com/bin-hel-tpl-remote-vue-comps@0.0.3/hel_dist/js/chunk-4926f535.4ead9eec.js\" rel=\"prefetch\"><link href=\"https://unpkg.com/bin-hel-tpl-remote-vue-comps@0.0.3/hel_dist/js/app~7274e1de.657ef473.js\" rel=\"preload\" as=\"script\"></head><body><noscript><strong>We're sorry but bin-hel-tpl-remote-vue-comps doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><div id=\"app\"></div><script src=\"https://unpkg.com/bin-hel-tpl-remote-vue-comps@0.0.3/hel_dist/js/app~7274e1de.657ef473.js\"></script></body></html>"
+  }
+}
