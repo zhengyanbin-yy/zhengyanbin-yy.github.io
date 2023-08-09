@@ -1,18 +1,8 @@
 (function (global, factory) {
   typeof exports === 'object' && typeof module !== 'undefined' ? factory(exports, require('hel-lib-proxy')) :
   typeof define === 'function' && define.amd ? define(['exports', 'hel-lib-proxy'], factory) :
-  (global = typeof globalThis !== 'undefined' ? globalThis : global || self, factory(global["hel-tpl-remote-vue-comps"] = {}, global.helLibProxy));
+  (global = typeof globalThis !== 'undefined' ? globalThis : global || self, factory(global["bin-hel-tpl-remote-vue-comps"] = {}, global.helLibProxy));
 })(this, (function (exports, helLibProxy) { 'use strict';
-
-  /*
-  |--------------------------------------------------------------------------
-  |
-  | 对应 package.json/appGroupName
-  |
-  |--------------------------------------------------------------------------
-  */
-
-  const LIB_NAME = 'hel-tpl-remote-vue-comps';
 
   /*
   |--------------------------------------------------------------------------
@@ -24,6 +14,8 @@
   |
   |--------------------------------------------------------------------------
   */
+  // import { LIB_NAME } from '../configs/subApp';
+  var LIB_NAME = 'bin-hel-tpl-remote-vue-comps';
   /**
    * 将提供给用户的lib暴露出去（同时也暴露了类型）
    */
