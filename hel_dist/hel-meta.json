@@ -12,16 +12,16 @@
     "sub_app_name": "git-hel-tpl-remote-vue-comps",
     "sub_app_version": "1.5.0",
     "src_map": {
-      "webDirPath": "/",
-      "htmlIndexSrc": "/index.html",
+      "webDirPath": "https://zhengyanbin-yy.github.io/docs/as_v1",
+      "htmlIndexSrc": "https://zhengyanbin-yy.github.io/docs/as_v1/index.html",
       "extractMode": "all",
       "iframeSrc": "",
       "chunkCssSrcList": [
-        "/css/chunk-4926f535.c4df890f.css"
+        "https://zhengyanbin-yy.github.io/docs/as_v1/css/chunk-4926f535.c4df890f.css"
       ],
       "chunkJsSrcList": [
-        "/js/app~e2e93592.30632e1d.js",
-        "/js/chunk-4926f535.84b370f7.js"
+        "https://zhengyanbin-yy.github.io/docs/as_v1/js/app~e2e93592.0219a74e.js",
+        "https://zhengyanbin-yy.github.io/docs/as_v1/js/chunk-4926f535.f4e9071f.js"
       ],
       "staticCssSrcList": [],
       "staticJsSrcList": [
@@ -41,7 +41,7 @@
           "tag": "link",
           "append": true,
           "attrs": {
-            "href": "/css/chunk-4926f535.c4df890f.css",
+            "href": "https://zhengyanbin-yy.github.io/docs/as_v1/css/chunk-4926f535.c4df890f.css",
             "rel": "prefetch"
           }
         },
@@ -49,7 +49,7 @@
           "tag": "link",
           "append": true,
           "attrs": {
-            "href": "/js/chunk-4926f535.84b370f7.js",
+            "href": "https://zhengyanbin-yy.github.io/docs/as_v1/js/chunk-4926f535.f4e9071f.js",
             "rel": "prefetch"
           }
         },
@@ -57,7 +57,7 @@
           "tag": "link",
           "append": true,
           "attrs": {
-            "href": "/js/app~e2e93592.30632e1d.js",
+            "href": "https://zhengyanbin-yy.github.io/docs/as_v1/js/app~e2e93592.0219a74e.js",
             "rel": "preload",
             "as": "script"
           }
@@ -68,18 +68,18 @@
           "tag": "script",
           "append": true,
           "attrs": {
-            "src": "/js/app~e2e93592.30632e1d.js"
+            "src": "https://zhengyanbin-yy.github.io/docs/as_v1/js/app~e2e93592.0219a74e.js"
           }
         }
       ],
       "otherSrcList": [
-        "/favicon.ico",
-        "/img/logo.82b9c7a5.png",
-        "/index.html",
-        "/js/app~e2e93592.30632e1d.js.map",
-        "/js/chunk-4926f535.84b370f7.js.map"
+        "https://zhengyanbin-yy.github.io/docs/as_v1/favicon.ico",
+        "https://zhengyanbin-yy.github.io/docs/as_v1/img/logo.82b9c7a5.png",
+        "https://zhengyanbin-yy.github.io/docs/as_v1/index.html",
+        "https://zhengyanbin-yy.github.io/docs/as_v1/js/app~e2e93592.0219a74e.js.map",
+        "https://zhengyanbin-yy.github.io/docs/as_v1/js/chunk-4926f535.f4e9071f.js.map"
       ]
     },
-    "html_content": "<!DOCTYPE html><html lang=\"\"><head><meta charset=\"utf-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><title>tpl-remote-vue-comp</title><script src=\"https://tnfe.gtimg.com/hel-external/level1/comb-v1-2.7.14-vue.js\"></script><link href=\"/css/chunk-4926f535.c4df890f.css\" rel=\"prefetch\"><link href=\"/js/chunk-4926f535.84b370f7.js\" rel=\"prefetch\"><link href=\"/js/app~e2e93592.30632e1d.js\" rel=\"preload\" as=\"script\"></head><body><noscript><strong>We're sorry but git-hel-tpl-remote-vue-comps doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><div id=\"app\"></div><script src=\"/js/app~e2e93592.30632e1d.js\"></script></body></html>"
+    "html_content": "<!DOCTYPE html><html lang=\"\"><head><meta charset=\"utf-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><title>tpl-remote-vue-comp</title><script src=\"https://tnfe.gtimg.com/hel-external/level1/comb-v1-2.7.14-vue.js\"></script><link href=\"https://zhengyanbin-yy.github.io/docs/as_v1/css/chunk-4926f535.c4df890f.css\" rel=\"prefetch\"><link href=\"https://zhengyanbin-yy.github.io/docs/as_v1/js/chunk-4926f535.f4e9071f.js\" rel=\"prefetch\"><link href=\"https://zhengyanbin-yy.github.io/docs/as_v1/js/app~e2e93592.0219a74e.js\" rel=\"preload\" as=\"script\"></head><body><noscript><strong>We're sorry but git-hel-tpl-remote-vue-comps doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><div id=\"app\"></div><script src=\"https://zhengyanbin-yy.github.io/docs/as_v1/js/app~e2e93592.0219a74e.js\"></script></body></html>"
   }
 }
