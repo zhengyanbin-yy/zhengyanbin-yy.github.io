@@ -20,8 +20,8 @@
         "https://zhengyanbin-yy.github.io/docs/as_v1/css/chunk-4926f535.c4df890f.css"
       ],
       "chunkJsSrcList": [
-        "https://zhengyanbin-yy.github.io/docs/as_v1/js/app~e2e93592.0219a74e.js",
-        "https://zhengyanbin-yy.github.io/docs/as_v1/js/chunk-4926f535.f4e9071f.js"
+        "https://zhengyanbin-yy.github.io/docs/as_v1/js/app~e2e93592.5fe51afb.js",
+        "https://zhengyanbin-yy.github.io/docs/as_v1/js/chunk-4926f535.6875873e.js"
       ],
       "staticCssSrcList": [],
       "staticJsSrcList": [
@@ -49,7 +49,7 @@
           "tag": "link",
           "append": true,
           "attrs": {
-            "href": "https://zhengyanbin-yy.github.io/docs/as_v1/js/chunk-4926f535.f4e9071f.js",
+            "href": "https://zhengyanbin-yy.github.io/docs/as_v1/js/chunk-4926f535.6875873e.js",
             "rel": "prefetch"
           }
         },
@@ -57,7 +57,7 @@
           "tag": "link",
           "append": true,
           "attrs": {
-            "href": "https://zhengyanbin-yy.github.io/docs/as_v1/js/app~e2e93592.0219a74e.js",
+            "href": "https://zhengyanbin-yy.github.io/docs/as_v1/js/app~e2e93592.5fe51afb.js",
             "rel": "preload",
             "as": "script"
           }
@@ -68,7 +68,7 @@
           "tag": "script",
           "append": true,
           "attrs": {
-            "src": "https://zhengyanbin-yy.github.io/docs/as_v1/js/app~e2e93592.0219a74e.js"
+            "src": "https://zhengyanbin-yy.github.io/docs/as_v1/js/app~e2e93592.5fe51afb.js"
           }
         }
       ],
@@ -76,10 +76,10 @@
         "https://zhengyanbin-yy.github.io/docs/as_v1/favicon.ico",
         "https://zhengyanbin-yy.github.io/docs/as_v1/img/logo.82b9c7a5.png",
         "https://zhengyanbin-yy.github.io/docs/as_v1/index.html",
-        "https://zhengyanbin-yy.github.io/docs/as_v1/js/app~e2e93592.0219a74e.js.map",
-        "https://zhengyanbin-yy.github.io/docs/as_v1/js/chunk-4926f535.f4e9071f.js.map"
+        "https://zhengyanbin-yy.github.io/docs/as_v1/js/app~e2e93592.5fe51afb.js.map",
+        "https://zhengyanbin-yy.github.io/docs/as_v1/js/chunk-4926f535.6875873e.js.map"
       ]
     },
-    "html_content": "<!DOCTYPE html><html lang=\"\"><head><meta charset=\"utf-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><title>tpl-remote-vue-comp</title><script src=\"https://tnfe.gtimg.com/hel-external/level1/comb-v1-2.7.14-vue.js\"></script><link href=\"https://zhengyanbin-yy.github.io/docs/as_v1/css/chunk-4926f535.c4df890f.css\" rel=\"prefetch\"><link href=\"https://zhengyanbin-yy.github.io/docs/as_v1/js/chunk-4926f535.f4e9071f.js\" rel=\"prefetch\"><link href=\"https://zhengyanbin-yy.github.io/docs/as_v1/js/app~e2e93592.0219a74e.js\" rel=\"preload\" as=\"script\"></head><body><noscript><strong>We're sorry but git-hel-tpl-remote-vue-comps doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><div id=\"app\"></div><script src=\"https://zhengyanbin-yy.github.io/docs/as_v1/js/app~e2e93592.0219a74e.js\"></script></body></html>"
+    "html_content": "<!DOCTYPE html><html lang=\"\"><head><meta charset=\"utf-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><title>tpl-remote-vue-comp</title><script src=\"https://tnfe.gtimg.com/hel-external/level1/comb-v1-2.7.14-vue.js\"></script><link href=\"https://zhengyanbin-yy.github.io/docs/as_v1/css/chunk-4926f535.c4df890f.css\" rel=\"prefetch\"><link href=\"https://zhengyanbin-yy.github.io/docs/as_v1/js/chunk-4926f535.6875873e.js\" rel=\"prefetch\"><link href=\"https://zhengyanbin-yy.github.io/docs/as_v1/js/app~e2e93592.5fe51afb.js\" rel=\"preload\" as=\"script\"></head><body><noscript><strong>We're sorry but git-hel-tpl-remote-vue-comps doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><div id=\"app\"></div><script src=\"https://zhengyanbin-yy.github.io/docs/as_v1/js/app~e2e93592.5fe51afb.js\"></script></body></html>"
   }
 }
